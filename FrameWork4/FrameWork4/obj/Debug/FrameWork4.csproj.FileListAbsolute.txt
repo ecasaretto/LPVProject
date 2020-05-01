@@ -1,0 +1,14 @@
+C:\UK\LP5\Proyecto\FrameWork_4\FrameWork4\FrameWork4\bin\FrameWork4.dll.config
+C:\UK\LP5\Proyecto\FrameWork_4\FrameWork4\FrameWork4\bin\FrameWork4.dll
+C:\UK\LP5\Proyecto\FrameWork_4\FrameWork4\FrameWork4\bin\FrameWork4.pdb
+C:\UK\LP5\Proyecto\FrameWork_4\FrameWork4\FrameWork4\obj\Debug\FrameWork4.csprojAssemblyReference.cache
+C:\UK\LP5\Proyecto\FrameWork_4\FrameWork4\FrameWork4\obj\Debug\FrameWork4.csproj.CoreCompileInputs.cache
+C:\UK\LP5\Proyecto\FrameWork_4\FrameWork4\FrameWork4\obj\Debug\FrameWork4.dll
+C:\UK\LP5\Proyecto\FrameWork_4\FrameWork4\FrameWork4\obj\Debug\FrameWork4.pdb
+C:\Users\ecasaretto\source\repos\FrameWork4\FrameWork4\bin\FrameWork4.dll.config
+C:\Users\ecasaretto\source\repos\FrameWork4\FrameWork4\bin\FrameWork4.dll
+C:\Users\ecasaretto\source\repos\FrameWork4\FrameWork4\bin\FrameWork4.pdb
+C:\Users\ecasaretto\source\repos\FrameWork4\FrameWork4\obj\Debug\FrameWork4.csprojAssemblyReference.cache
+C:\Users\ecasaretto\source\repos\FrameWork4\FrameWork4\obj\Debug\FrameWork4.csproj.CoreCompileInputs.cache
+C:\Users\ecasaretto\source\repos\FrameWork4\FrameWork4\obj\Debug\FrameWork4.dll
+C:\Users\ecasaretto\source\repos\FrameWork4\FrameWork4\obj\Debug\FrameWork4.pdb
